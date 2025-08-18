@@ -1,0 +1,25 @@
+[35mbackend/package.json[m[36m:[m  "[1;31mkey[mwords": [],
+[35mbackend/src/lib/cloudinary.js[m[36m:[m  api_[1;31mkey[m: process.env.CLOUDINARY_API_[1;31mKEY[m,
+[35mfrontend/package-lock.json[m[36m:[m        "eslint-visitor-[1;31mkey[ms": "^3.4.3"
+[35mfrontend/package-lock.json[m[36m:[m    "node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-[1;31mkey[ms": {
+[35mfrontend/package-lock.json[m[36m:[m      "resolved": "https://registry.npmjs.org/eslint-visitor-[1;31mkey[ms/-/eslint-visitor-[1;31mkey[ms-3.4.3.tgz",
+[35mfrontend/package-lock.json[m[36m:[m        "path-[1;31mkey[m": "^3.1.0",
+[35mfrontend/package-lock.json[m[36m:[m        "object-[1;31mkey[ms": "^1.1.1"
+[35mfrontend/package-lock.json[m[36m:[m        "object-[1;31mkey[ms": "^1.1.1",
+[35mfrontend/package-lock.json[m[36m:[m        "eslint-visitor-[1;31mkey[ms": "^4.2.0",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-mpJRtPgHN2tNAvZ35AMfqeB3Xqeo273QxrHJsbBEPWODRM4r0yB6jfoROq[1;31mKEY[mrOn27UtRPpcpHc2UqyBSuUNTw==",
+[35mfrontend/package-lock.json[m[36m:[m    "node_modules/eslint-visitor-[1;31mkey[ms": {
+[35mfrontend/package-lock.json[m[36m:[m      "resolved": "https://registry.npmjs.org/eslint-visitor-[1;31mkey[ms/-/eslint-visitor-[1;31mkey[ms-4.2.0.tgz",
+[35mfrontend/package-lock.json[m[36m:[m        "eslint-visitor-[1;31mkey[ms": "^4.2.0"
+[35mfrontend/package-lock.json[m[36m:[m        "[1;31mkey[mv": "^4.5.4"
+[35mfrontend/package-lock.json[m[36m:[m    "node_modules/[1;31mkey[mv": {
+[35mfrontend/package-lock.json[m[36m:[m      "resolved": "https://registry.npmjs.org/[1;31mkey[mv/-/[1;31mkey[mv-4.5.4.tgz",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/Bg[1;31mKEy[mS4mqsGChFN0w==",
+[35mfrontend/package-lock.json[m[36m:[m    "node_modules/object-[1;31mkey[ms": {
+[35mfrontend/package-lock.json[m[36m:[m      "resolved": "https://registry.npmjs.org/object-[1;31mkey[ms/-/object-[1;31mkey[ms-1.1.1.tgz",
+[35mfrontend/package-lock.json[m[36m:[m        "object-[1;31mkey[ms": "^1.1.1"
+[35mfrontend/package-lock.json[m[36m:[m    "node_modules/path-[1;31mkey[m": {
+[35mfrontend/package-lock.json[m[36m:[m      "resolved": "https://registry.npmjs.org/path-[1;31mkey[m/-/path-[1;31mkey[m-3.1.1.tgz",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8[1;31mKEy[mMceP2ntpaHrDEVA==",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-nWJ91DjeOkej/TA8pXQ3myruKp[1;31mKEY[mgqvpw9lz4OPHj/NWFNluYrjbz9j01CJ8yKQd2g4jFoOkINCTW2I5LEEyw==",
+[35mfrontend/src/components/AuthImagePattern.jsx[m[36m:[m              [1;31mkey[m={i}
